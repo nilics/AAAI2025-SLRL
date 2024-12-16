@@ -1,0 +1,8 @@
+[lj]
+# nodes = 3,997,962
+# edges = 34,681,189
+# comms(filtered <= 54) = 4,510
+====================
+[lj-1: subgraph with nodes in comms' 1-ego net]
+# nodes = 3,956,112
+# edges = 34,618,879

@@ -1,0 +1,8 @@
+[youtube]
+# nodes = 1,134,890
+# edges = 2,987,624
+# comms(filtered <= 25) = 4,510
+====================
+[youtube-1: subgraph with nodes in comms' 1-ego net]
+# nodes = 1,114,190
+# edges = 2,965,850

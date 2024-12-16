@@ -1,0 +1,8 @@
+[dblp]
+# nodes = 317,080
+# edges = 1,049,866
+# comms(filtered <= 16) = 4,559
+====================
+[dblp-1: subgraph with nodes in comms' 1-ego net]
+# nodes = 313,986
+# edges = 1,045,070
